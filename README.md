@@ -80,5 +80,4 @@ Terms of Use. The accessibility of data from Amazon S3 is provided "as is"
 without warranty of any kind, expressed or implied, including, but not limited
 to, the implied warranties of merchantability and fitness for a particular use.
 
-The name of the S3 bucket is s3://sdms-unicorn-2008/
-
+The name of the S3 bucket is s3://sdms-escape/TSTOP/
